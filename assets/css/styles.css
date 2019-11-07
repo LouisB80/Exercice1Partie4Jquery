@@ -1,0 +1,26 @@
+body
+{
+  text-align: center;
+  background-image: url('../img/bear.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1
+{
+  background-color: yellow;
+}
+.container-fluid
+{
+  display: flex;
+  margin-top: 10%;
+  color: white;
+  margin-left: 10%;
+}
+form
+{
+  background-color: black;
+}
+.marginL
+{
+  margin-left: 50px;
+}
